@@ -146,10 +146,44 @@ Advanced DT:
 	5.[]
 	6.mutable
 	
+	Tuple:
+	=====
+ To Represent Group objects as a single entity	
+	1.duplicates are allowed 
+	2.insertion order is preserved
+	3.homogeneous and haterogenous 
+	4.()
+	5.immutable
+	
+	Set:
+	=====
+ To Represent Group objects as a single entity	
+	1.duplicates are not allowed 
+	2.insertion order is not preserved
+	3.homogeneous and haterogenous 
+	4.growable in nature
+	5.{}
+	6.mutable
+	
+	FrozenSet:
+	=========
+ To Represent Group objects as a single entity	
+	1.duplicates are not allowed 
+	2.insertion order is not preserved
+	3.homogeneous and haterogenous 
+	4.({}) / frozenset(set)
+	5.immutable	
 	
 	
-	
-	
+	Dict:
+	=====
+		key,value
+		
+	1.keys must be unique
+	2.values can be duplicate
+	3.key,value can be any type
+	4.{}
+	5.mutable
 	
 	
 	
