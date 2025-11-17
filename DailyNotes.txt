@@ -1,0 +1,176 @@
+Python:
+=========
+
+Language:communication with human
+
+programming language:communication with machine
+			
+
+	simple and easy to learn 
+	
+	
+	java app
+	
+	Welcome.java
+
+public class Welcome{
+	public static void main(String args[])
+	{
+		System.out.print("welcome to java")
+	}
+} 
+	53
+	
+	
+	30+
+	
+	rich -->numpy,pandas,matplotlib,seaborn,tensorflow,keras,sickitlearn
+	
+	
+	Guido Van Russam
+	
+	feb 20th 1991
+	
+1.Functional Programming  features from C
+2.OOP features from C++
+3.scrpting language features from shellscript
+4.modular programming from  modula-3
+
+	c,abc
+	
+
+1.desktop apps  	core python
+2.web apps			django,flask
+3.database aps		pdbc
+4.networking apps  
+5.gaming apps
+6.DA
+7.ML
+8.AI
+9.IOT
+
+
+Features:
+========
+1.simple and easy to learn 
+2.freeware and open source (jython)
+3.platoform independent  PVM
+4.portable
+5.dynamic typed PL 	   age=90;//dynamic typed
+6.interpreted
+7.rich in library		pip install
+
+	cpython,jython
+	
+	version
+	 3.13,3.14
+	
+	identifiers		
+		any name in python ,classname,methodname,obj,variable,....
+		
+		class Demo{  a-z,A-Z,0-9,_
+		
+		}
+
+	
+	variables
+	datatypes
+	.py
+	.pyc
+	modules
+	
+	cmd > py
+	
+	>>>import keyword
+	>>>keyword.kwlist
+	
+	
+	['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 
+	'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except',
+	'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 
+	'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 
+	'while', 'with', 'yield']
+	
+	
+	print()
+	type()
+	id()
+	input()
+	...
+	...
+	...
+	
+	
+	Data types:
+	
+	int
+	str   '' ""  
+	bool
+	float
+	complex
+	range
+	
+	List
+	Set
+	Tuple
+	Dict
+	Fronzenset
+	None
+	
+	
+	int()
+	float()
+	str()
+	complex()
+	bool()
+	
+	
+	immutable
+	
+Advanced DT:
+	List
+	Set
+	Tuple
+	Dict
+	Fronzenset
+	
+	
+	
+	List:
+	=====
+ To Represent Group objects as a single entity	
+	1.duplicates are allowed 
+	2.insertion order is preserved
+	3.homogeneous and haterogenous 
+	4.growable in nature
+	5.[]
+	6.mutable
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
