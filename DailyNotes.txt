@@ -110,11 +110,11 @@ Features:
 	complex
 	range
 	
-	List
-	Set
-	Tuple
-	Dict
-	Fronzenset
+	List		[]
+	Set			{}
+	Tuple		()
+	Dict		{}
+	Fronzenset  ({})
 	None
 	
 	
@@ -184,6 +184,48 @@ Advanced DT:
 	3.key,value can be any type
 	4.{}
 	5.mutable
+
+
+	def display(name,id,salary,desg):
+		..
+		...
+		....
+		.....
+
+
+	display("suresh",123,9000,'admin')
+	display(123,'suresh',9000,'admin')#not correct 
+
+
+Keyword arguments
+
+	display(id=123,name='suresh',9000,'admin')
+
+
+
+
+
+
+
+	OOPS:
+	=====
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
