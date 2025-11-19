@@ -201,14 +201,51 @@ Keyword arguments
 
 	display(id=123,name='suresh',9000,'admin')
 
-
-
-
-
-
-
 	OOPS:
 	=====
+		Inheritance,Polymorphisam,Abstraction,Encapsulation
+		
+	filter,map
+	class 
+		class is a container where we define datamembers and member functions
+		
+		class Demo:
+			
+			
+			
+	
+	object:instance of a class
+	
+	
+	different variables
+			local variable: inside block or function
+			global variable:outside the function with in the class
+	
+				instance
+				static 
+
+instance variables:	
+		1)inside the constructor  by using self 
+		2)inside instance method by using self
+		3)outside the class by using obj reference
+		
+		
+static		
+		we can declare and access inside constructor/method/outside the class 
+			by using classname
+		
+		
+Polymorphisam:many forms
+
+
+		overloading:method name is same signature is different(not possible in python)
+			alternative for overloading is default arguments
+		overriding:same method with different implementation
+		
+		
+		
+		
+		
 	
 	
 	
